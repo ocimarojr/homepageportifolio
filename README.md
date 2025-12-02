@@ -2,7 +2,7 @@
 
 Bem-vindo ao meu portfólio pessoal! Este projeto foi desenvolvido como parte do exercício final do módulo de HTML, CSS e JavaScript do curso **CS50: Introduction to Computer Science** de Harvard.
 
-🔗 **Acesse o site online:** [Clique aqui para ver o projeto](https://ocimarojr.github.io/homepageportfolio/)
+🔗 **Acesse o site online:** [Clique aqui para ver o projeto](https://ocimarojr.github.io/homepageportifolio/)
 
 ## 📝 Sobre o Projeto
 Esta é uma página web estática criada para servir como meu cartão de visitas digital. O objetivo foi aplicar os conceitos fundamentais de desenvolvimento web, criando um site responsivo e interativo.
